@@ -2,7 +2,7 @@
 # If their first name starts with A or B 
 # tell them they go to room AB
 # IF their first name starts with C
-# tell them to go to room CD
+# tell them to go to room C
 # If their first name starts with another letter, ask for their last name
 # IF their last name starts with Z, tell them to go to room Z
 # if their last name starts with any other letter, tell them to go to room OTHER
